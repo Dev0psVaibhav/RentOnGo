@@ -17,10 +17,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript *(or React, if used)*
-- **Backend:** Node.js *
-
-
+- **Frontend:** HTML, CSS, JavaScript *
 ---
 
 ## 🚀 Getting Started
