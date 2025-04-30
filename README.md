@@ -20,9 +20,17 @@
 - **Frontend:** HTML, CSS, JavaScript *
 ---
 
-## 🚀 Demo
+## ⚙️ Getting Started
 
-**Live Website:** [https://DevOpsVaibhav.github.io/RentOnGo/](https://DevOpsVaibhav.github.io/RentOnGo/)  
-_
+### 1. Prerequisites
+
+- Basic knowledge of HTML/CSS/JS
+- A modern web browser (Chrome, Firefox, etc.)
+- [Git](https://git-scm.com/) installed on your system
+- A code editor like [VS Code](https://code.visualstudio.com/)
+
+ Since this is a static project, no build or installation steps are required. Just open the index.html file in your browser.
+
+
 
 
